@@ -1,16 +1,16 @@
 # AI-CHATBOT-WITH-NLP
 
-COMPANY: CODTECH IT SOLUTIONS
+**COMPANY:** CODTECH IT SOLUTIONS
 
-NAME: Nandini Patel
+**NAME:** Nandini Patel
 
-INTERN ID: CT08LEW
+**INTERN ID:** CT08LEW
 
-DOMAIN: Python Programmer
+**DOMAIN:** Python Programmer
 
-BATCH DURATION: January 10th, 2025 to february 10th, 2025
+**BATCH DURATION:** January 10th, 2025 to february 10th, 2025
 
-MENTOR NAME: NEELA SHANTOSH
+**MENTOR NAME:** NEELA SHANTOSH
 
 This project implements a simple AI-powered chatbot using Natural Language Processing (NLP) with the help of the NLTK (Natural Language Toolkit) library and a graphical user interface (GUI) built with Tkinter.
 
