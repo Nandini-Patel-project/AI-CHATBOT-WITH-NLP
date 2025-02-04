@@ -1,5 +1,19 @@
 # AI-CHATBOT-WITH-NLP
 
+**Weather Forecast API Integration and Data Visualization**
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Nandini Patel
+
+INTERN ID: CT08LEW
+
+DOMAIN: Python Programmer
+
+BATCH DURATION: January 10th, 2025 to february 10th, 2025
+
+MENTOR NAME: NEELA SHANTOSH
+
 This project implements a simple AI-powered chatbot using Natural Language Processing (NLP) with the help of the NLTK (Natural Language Toolkit) library and a graphical user interface (GUI) built with Tkinter.
 
 **Features:**
@@ -19,3 +33,6 @@ User Interaction: The user types messages in a text input field, and the chatbot
 
 chatbot.py: The main Python file containing the logic for the chatbot, pattern matching, and GUI.
 settings.json: Configuration file to adjust settings like Git ignore warnings.
+
+* output:
+* [Task_3.pdf](https://github.com/user-attachments/files/18654098/Task_3.pdf)
