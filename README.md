@@ -1,6 +1,5 @@
 # AI-CHATBOT-WITH-NLP
 
-**Weather Forecast API Integration and Data Visualization**
 
 COMPANY: CODTECH IT SOLUTIONS
 
